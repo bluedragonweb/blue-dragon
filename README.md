@@ -1,2 +1,0 @@
-# staticsite
-first web page
